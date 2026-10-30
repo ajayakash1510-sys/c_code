@@ -1,0 +1,6 @@
+{
+  "name": "C Code Lab",
+  "description": "Interactive learning web app teaching C programming basics and loops to first-year computer engineering students through visual JavaScript-powered simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
